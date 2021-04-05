@@ -34,3 +34,25 @@ membuat file baru css style_eksternal.css dan memasukan deklarasi css.
 dan memasukan link ke dalam file html di dalam head untuk memanggil file css yang telah di buat.
 
 ![](Screenshot/12.jpg)
+
+Refresh di google dan lihat hasilnya.
+
+![](Screenshot/8.jpg)
+
+## 5. Menambahkan CSS selector
+Membuat CSS selectero yang di ambil dari file html sebelumnya yang sudah di beri id.
+
+![](Screenshot/9.jpg)
+
+simpan dan refresh di google, lihat hasilnya.
+
+![](Screenshot/10.jpg)
+
+## 6. Hasil validasi CSS
+
+![](Screenshot/11.jpg)
+
+# Pertanyaan dan Tugas 
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya! 
+2. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! 
+3. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!  ( <p id="paragraf-1" class="text-paragraf"> ) 
