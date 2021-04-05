@@ -56,3 +56,14 @@ simpan dan refresh di google, lihat hasilnya.
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini. 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya! 
 2. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! 
 3. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!(<p id="paragraf-1" class="text-paragraf">) 
+
+# Jawaban
+#### 1. 
+   ![](Screenshot/90.jpg)
+
+   ![](Screenshot/91.jpg)
+
+    ![](Screenshot/92.jpg)
+
+#### 2. elemen h1 biasanya ada di dalam css internal berbeda dengan #intro h1 dia menggunakan selector id didalam file html untuk di deklarasikan kedalam file css.
+#### 3. 
