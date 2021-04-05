@@ -33,4 +33,4 @@ membuat file baru css style_eksternal.css dan memasukan deklarasi css.
 
 dan memasukan link ke dalam file html di dalam head untuk memanggil file css yang telah di buat.
 
-![](Screenshot/8.jpg)
+![](Screenshot/12.jpg)
