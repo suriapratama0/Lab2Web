@@ -62,8 +62,8 @@ simpan dan refresh di google, lihat hasilnya.
    ![](Screenshot/90.jpg)
 
    ![](Screenshot/91.jpg)
-
-    ![](Screenshot/92.jpg)
+   
+   ![](Screenshot/92.jpg)
 
 #### 2. elemen h1 biasanya ada di dalam css internal berbeda dengan #intro h1 dia menggunakan selector id didalam file html untuk di deklarasikan kedalam file css.
 #### 3. 
