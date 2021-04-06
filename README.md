@@ -73,3 +73,8 @@ simpan dan refresh di google, lihat hasilnya.
 
 ![](Screenshot/no3.jpg)
 ![](Screenshot/no4.jpg)
+
+#### 4. Dua duanya akan di tampilkan, ID dengan deklarasi "#" Class dengan deklarasi "."
+##### input
+
+
