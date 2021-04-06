@@ -66,4 +66,9 @@ simpan dan refresh di google, lihat hasilnya.
    ![](Screenshot/92.jpg)
 
 #### 2. elemen h1 biasanya ada di dalam css internal berbeda dengan #intro h1 dia menggunakan selector id didalam file html untuk di deklarasikan kedalam file css.
-#### 3. 
+#### 3. Bila CSS external di dalam internal masih bisa muncul di chrome tetapi bila ada CSS selector maka div harus di dalam "body", karena fungsi CSS eksternal adalah untuk Kecepatan loading menjadi lebih cepat dan File CSS yang sama bisa digunakan di banyak halaman. pada dasarnya hasilnya sama saja.
+
+![](Screenshot/90.jpg)
+
+![](Screenshot/no3.jpg)
+![](Screenshot/no4.jpg)
