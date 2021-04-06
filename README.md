@@ -77,4 +77,11 @@ simpan dan refresh di google, lihat hasilnya.
 #### 4. Dua duanya akan di tampilkan, ID dengan deklarasi "#" Class dengan deklarasi "."
 ##### input
 
+![](Screenshot/z.jpg)
+![](Screenshot/x.jpg)
+
+##### output
+
+![](Screenshot/c.jpg)
+
 
